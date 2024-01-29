@@ -81,6 +81,9 @@ a.hover-text-primary:hover,
 .text-primary {
 	color: var(--theme-primary-color) !important;
 }
+.nav-primary-hover .navbar-nav .active > .nav-link{
+	color: white !important;
+}
 a,
 a:hover,
 .btn-link,
